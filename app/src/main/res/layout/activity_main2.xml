@@ -1,0 +1,24 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Main2Activity"
+    android:orientation="vertical">
+
+    <TextView
+        android:padding="10dp"
+        android:background="#3F51B5"
+        android:textColor="#ffffff"
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Data"
+        android:layout_margin="10dp"/>
+
+
+
+</RelativeLayout>
